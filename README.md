@@ -1,2 +1,2 @@
-# til_ja
+# TIL
 Today I Learned (今日学んだこと)
