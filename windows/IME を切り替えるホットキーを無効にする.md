@@ -7,3 +7,5 @@
 7. 「入力言語の切り替え」と「キーボードレイアウトの切り替え」をどちらも「割り当てなし」に。
 
 Ctrl+Shift や Alt+Shift は誤入力しやすいので無効にしておく。ここが無効でも Win+Space で切り替えられる。
+
+![image](https://github.com/user-attachments/assets/e772bb00-2701-4d2c-9a33-37405d0db0c6)
